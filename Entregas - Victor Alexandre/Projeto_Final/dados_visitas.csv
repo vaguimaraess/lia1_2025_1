@@ -1,0 +1,21 @@
+data_visita,nome_funcionario,nome_consumidor,cidade,estado,endereco,telefone,valor_fatura_r$,observacoes,latitude,longitude,perfil_cliente
+2025-04-10,Ana Julia,Mariana Costa,Goiania,GO,"Rua T-38, 123, Setor Bueno",(62) 99876-5432,450.75,"Cliente interessada em sistema para residencia. Telhado com boa face norte.",-16.699,-49.279,Residencial
+2025-04-12,Bruno Carvalho,Oficina Mecanica Veloz,Sao Paulo,SP,"Av. Paulista, 1500, Cerqueira Cesar",(11) 91234-5678,1850.50,"Alto consumo de energia. Potencial para grande projeto comercial.",-23.561,-46.656,Comercial
+2025-04-15,Carla Dias,Condominio Residencial Flores,Rio de Janeiro,RJ,"Rua Visconde de Piraja, 550, Ipanema",(21) 98765-4321,2500.00,"Discussao com sindico para area comum e apartamentos.",-22.984,-43.205,Condominio
+2025-04-20,Daniel Martins,Fazenda Sol Nascente,Belo Horizonte,MG,"Rodovia MG-010, km 25, Vespasiano",(31) 95432-1098,1200.30,"Sistema para irrigacao e sede da fazenda.",-19.791,-43.923,Agronegocio
+2025-04-22,Fernanda Souza,Padaria Pao Quente,Goiania,GO,"Av. 85, 2000, Setor Marista",(62) 93321-8765,980.00,"Cliente buscando reducao de custos. Fornos eletricos consomem muito.",-16.702,-49.268,Comercial
+2025-05-02,Victor Alexandre,Clinica Vet S.A.,Sao Paulo,SP,"Rua Augusta, 900, Consolacao",(11) 98877-6655,1300.80,"Equipamentos ligados 24h. Grande potencial de economia.",-23.553,-46.659,Comercial
+2025-05-05,Vinicius Alexandre,Fabio Lima,Belo Horizonte,MG,"Rua da Bahia, 1000, Centro",(31) 99988-7766,350.25,"Cliente residencial, pediu para retornar contato em 1 mes.",-19.922,-43.938,Residencial
+2025-05-10,Ana Julia,Supermercado Preco Bom,Goiania,GO,"Av. Anhanguera, 500, Centro",(62) 98765-1234,2100.00,"Analisando proposta para cobrir os refrigeradores e iluminacao.",-16.678,-49.254,"Comercial,Industrial"
+2025-05-12,Bruno Carvalho,Industria Textil Fios de Ouro,Sao Paulo,SP,"Av. do Estado, 3000, Bras",(11) 97654-3210,4500.70,"Maquinario com alto consumo. Projeto de grande porte.",-23.543,-46.618,Industrial
+2025-05-18,Carla Dias,Juliana Pereira,Rio de Janeiro,RJ,"Av. Atlantica, 1702, Copacabana",(21) 99876-5432,650.50,"Apartamento com boa area de varanda para possivel instalacao.",-22.969,-43.183,Residencial
+2025-05-21,Daniel Martins,Laura Mendes,Belo Horizonte,MG,"Rua Piaui, 600, Funcionarios",(31) 98765-4321,420.00,"Cliente com muitas duvidas tecnicas. Marcar visita de engenheiro.",-19.929,-43.929,Residencial
+2025-05-25,Fernanda Souza,Escola Aprender Mais,Goiania,GO,"Praca Civica, s/n, Centro",(62) 99999-8888,1400.90,"Interesse em projeto educativo e de economia para a escola.",-16.678,-49.255,Comercial
+2025-06-01,Victor Alexandre,Lucas Martins,Sao Paulo,SP,"Rua Oscar Freire, 800, Jardins",(11) 98765-1122,950.00,"Residencia de alto padrao, cliente focado em sustentabilidade.",-23.567,-46.669,Residencial
+2025-06-04,Ana Julia,Restaurante Sabor Divino,Goiania,GO,"Rua 9, 850, Setor Oeste",(62) 98888-7777,1150.20,"Cozinha industrial com alto consumo. Potencial para payback rapido.",-16.680,-49.272,Comercial
+2025-06-08,Bruno Carvalho,Condominio Alpha,Sao Paulo,SP,"Av. Brigadeiro Faria Lima, 4500, Itaim Bibi",(11) 97777-6666,3200.00,"Area de lazer e iluminacao externa. Apresentar proposta para assembleia.",-23.587,-46.685,Condominio
+2025-06-12,Carla Dias,Pousada Vista Mar,Rio de Janeiro,RJ,"Ladeira do Leme, 20, Leme",(21) 96666-5555,1800.75,"Ar condicionado e o maior vilao da conta. Cliente muito interessado.",-22.963,-43.167,Comercial
+2025-06-15,Daniel Martins,Sitio das Oliveiras,Belo Horizonte,MG,"Estrada para Sabara, km 5",(31) 95555-4444,850.40,"Cliente quer ser autossuficiente. Analisar sistema off-grid.",-19.896,-43.807,"Residencial,Agronegocio"
+2025-06-18,Fernanda Souza,Rogerio Bastos,Goiania,GO,"Rua 148, 30, Setor Sul",(62) 94444-3333,280.60,"Cliente com fatura baixa, mas interessado na valorizacao do imovel.",-16.700,-49.258,Residencial
+2025-06-20,Victor Alexandre,Empresa de Logistica Carga Rapida,Sao Paulo,SP,"Marginal Tiete, 12000, Lapa",(11) 93333-2222,2800.00,"Galpao grande com telhado ideal. Cliente pediu estudo de viabilidade.",-23.527,-46.707,"Industrial,Comercial"
+2025-06-22,Carla Dias,Carlos Eduardo Peixoto,Rio de Janeiro,RJ,"Rua do Russel, 632, Gloria",(21) 92222-1111,550.90,"Cliente de indicacao, ja conhece a tecnologia e quer orcamento.",-22.923,-43.174,Residencial
